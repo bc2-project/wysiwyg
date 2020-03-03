@@ -1,0 +1,1 @@
+Benötigt Bootstrap 4. Verwendet den Grid (bzw. die entsprechenden CSS-Klassen) zur Darstellung der Spalten.

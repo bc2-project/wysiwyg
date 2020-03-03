@@ -1,0 +1,1 @@
+Darstellung eines Portfolios mit Bild und Infotext; zum Verlinken auf externe oder interne Seiten mit mehr Informationen geeignet

@@ -1,0 +1,28 @@
+.article-2-column {
+  -webkit-columns: 2 50%;
+     -moz-columns: 2 50%;
+          columns: 2 50%;
+}
+.article-3-column {
+  -webkit-columns: 3 33%;
+     -moz-columns: 3 33%;
+          columns: 3 33%;
+}
+.article-4-column {
+  -webkit-columns: 4 25%;
+     -moz-columns: 4 25%;
+          columns: 4 25%;
+}
+.article-5-column {
+  -webkit-columns: 5 20%;
+     -moz-columns: 5 20%;
+          columns: 5 20%;
+}
+.article-6-column {
+  -webkit-columns: 6 16%;
+     -moz-columns: 6 16%;
+          columns: 6 16%;
+}
+.article-bordered {
+    border: 1px solid #ccc;
+}
